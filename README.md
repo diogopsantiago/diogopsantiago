@@ -8,7 +8,7 @@
 ## 📌 Account Context & History / Contexto da Conta
 
 * **Previous Profile / Perfil Anterior:** [github.com/diogosantiago](https://github.com/diogosantiago)
-* **Current Active Profile / Perfil Atual:** [github.com/diogopsantiago](https://github.com/diogopsantiago) *(Ajuste para o novo username escolhido)*
+* **Current Active Profile / Perfil Atual:** [github.com/diogopsantiago](https://github.com/diogopsantiago)
 
 ### 🇧🇷 Por que esta migração foi feita?
 Devido à perda irrecoverável de acesso às credenciais e fatores de autenticação (2FA) associados ao e-mail original da conta `@diogosantiago`, as atividades e novos desenvolvimentos foram centralizados nesta nova conta. 
@@ -51,8 +51,8 @@ This repository ensures continuous traceability for past open-source contributio
 
 Para confirmar a autenticidade desta migração ou entrar em contato direto:
 
-* **LinkedIn:** [linkedin.com/in/diogosantiago](https://linkedin.com/in/diogosantiago) *(Ajuste para o seu link real)*
-* **Contact Email:** `seu-novo-email@dominio.com`
+* **LinkedIn:** [linkedin.com/in/diogo-santiago-72942914/](https://www.linkedin.com/in/diogo-santiago-72942914/) *(Ajuste para o seu link real)*
+* **Contact Email:** `diogo.santiago@gmail.com`
 
 ---
 *Last updated: November 2026*
