@@ -11,7 +11,7 @@
 * **Current Active Profile / Perfil Atual:** [github.com/diogopsantiago](https://github.com/diogopsantiago)
 
 ### 🇧🇷 Por que esta migração foi feita?
-Devido à perda irrecoverável de acesso às credenciais e fatores de autenticação (2FA) associados ao e-mail original da conta `@diogosantiago`, as atividades e novos desenvolvimentos foram centralizados nesta nova conta. 
+Devido à perda permanente de acesso às credenciais e fatores de autenticação (2FA) associados ao e-mail original da conta @diogosantiago, as atividades e novos desenvolvimentos foram centralizados nesta nova conta.
 
 Este repositório garante a rastreabilidade do histórico de projetos, arquiteturas desenvolvidas e histórico de contribuições acumulados no perfil antigo.
 
